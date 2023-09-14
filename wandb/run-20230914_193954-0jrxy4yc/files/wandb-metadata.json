@@ -1,0 +1,239 @@
+{
+    "os": "Linux-4.15.0-210-generic-x86_64-with-glibc2.27",
+    "python": "3.11.4",
+    "heartbeatAt": "2023-09-14T14:09:55.876007",
+    "startedAt": "2023-09-14T14:09:54.748230",
+    "docker": null,
+    "cuda": null,
+    "args": [],
+    "state": "running",
+    "program": "ELMO.ipynb",
+    "codePathLocal": null,
+    "git": {
+        "remote": "https://github.com/suyashsethia/ELMO",
+        "commit": "a7315d6fcca42e2fd2e0c856d961e0b21044afa1"
+    },
+    "email": null,
+    "root": "/home2/suyash_sethia/ELMO",
+    "host": "gnode034",
+    "username": "suyash_sethia",
+    "executable": "/home2/suyash_sethia/miniconda3/bin/python",
+    "cpu_count": 20,
+    "cpu_count_logical": 40,
+    "cpu_freq": {
+        "current": 1241.2244500000002,
+        "min": 1200.0,
+        "max": 3400.0
+    },
+    "cpu_freq_per_core": [
+        {
+            "current": 1203.027,
+            "min": 1200.0,
+            "max": 3400.0
+        },
+        {
+            "current": 1202.455,
+            "min": 1200.0,
+            "max": 3400.0
+        },
+        {
+            "current": 1202.701,
+            "min": 1200.0,
+            "max": 3400.0
+        },
+        {
+            "current": 1202.837,
+            "min": 1200.0,
+            "max": 3400.0
+        },
+        {
+            "current": 1202.024,
+            "min": 1200.0,
+            "max": 3400.0
+        },
+        {
+            "current": 1202.537,
+            "min": 1200.0,
+            "max": 3400.0
+        },
+        {
+            "current": 1203.625,
+            "min": 1200.0,
+            "max": 3400.0
+        },
+        {
+            "current": 1203.134,
+            "min": 1200.0,
+            "max": 3400.0
+        },
+        {
+            "current": 1203.157,
+            "min": 1200.0,
+            "max": 3400.0
+        },
+        {
+            "current": 1202.527,
+            "min": 1200.0,
+            "max": 3400.0
+        },
+        {
+            "current": 1201.238,
+            "min": 1200.0,
+            "max": 3400.0
+        },
+        {
+            "current": 1204.233,
+            "min": 1200.0,
+            "max": 3400.0
+        },
+        {
+            "current": 1200.353,
+            "min": 1200.0,
+            "max": 3400.0
+        },
+        {
+            "current": 1202.544,
+            "min": 1200.0,
+            "max": 3400.0
+        },
+        {
+            "current": 1202.87,
+            "min": 1200.0,
+            "max": 3400.0
+        },
+        {
+            "current": 1202.467,
+            "min": 1200.0,
+            "max": 3400.0
+        },
+        {
+            "current": 1202.905,
+            "min": 1200.0,
+            "max": 3400.0
+        },
+        {
+            "current": 1202.777,
+            "min": 1200.0,
+            "max": 3400.0
+        },
+        {
+            "current": 1282.487,
+            "min": 1200.0,
+            "max": 3400.0
+        },
+        {
+            "current": 1202.473,
+            "min": 1200.0,
+            "max": 3400.0
+        },
+        {
+            "current": 1200.916,
+            "min": 1200.0,
+            "max": 3400.0
+        },
+        {
+            "current": 1200.281,
+            "min": 1200.0,
+            "max": 3400.0
+        },
+        {
+            "current": 1200.866,
+            "min": 1200.0,
+            "max": 3400.0
+        },
+        {
+            "current": 1200.873,
+            "min": 1200.0,
+            "max": 3400.0
+        },
+        {
+            "current": 1200.82,
+            "min": 1200.0,
+            "max": 3400.0
+        },
+        {
+            "current": 1201.111,
+            "min": 1200.0,
+            "max": 3400.0
+        },
+        {
+            "current": 1200.182,
+            "min": 1200.0,
+            "max": 3400.0
+        },
+        {
+            "current": 1200.923,
+            "min": 1200.0,
+            "max": 3400.0
+        },
+        {
+            "current": 1200.68,
+            "min": 1200.0,
+            "max": 3400.0
+        },
+        {
+            "current": 1200.917,
+            "min": 1200.0,
+            "max": 3400.0
+        },
+        {
+            "current": 1201.045,
+            "min": 1200.0,
+            "max": 3400.0
+        },
+        {
+            "current": 1200.373,
+            "min": 1200.0,
+            "max": 3400.0
+        },
+        {
+            "current": 1198.973,
+            "min": 1200.0,
+            "max": 3400.0
+        },
+        {
+            "current": 1200.93,
+            "min": 1200.0,
+            "max": 3400.0
+        },
+        {
+            "current": 1200.703,
+            "min": 1200.0,
+            "max": 3400.0
+        },
+        {
+            "current": 1200.229,
+            "min": 1200.0,
+            "max": 3400.0
+        },
+        {
+            "current": 1201.252,
+            "min": 1200.0,
+            "max": 3400.0
+        },
+        {
+            "current": 1200.755,
+            "min": 1200.0,
+            "max": 3400.0
+        },
+        {
+            "current": 1291.926,
+            "min": 1200.0,
+            "max": 3400.0
+        },
+        {
+            "current": 1201.356,
+            "min": 1200.0,
+            "max": 3400.0
+        }
+    ],
+    "disk": {
+        "/": {
+            "total": 136.48257064819336,
+            "used": 92.78898620605469
+        }
+    },
+    "memory": {
+        "total": 125.78684616088867
+    }
+}
