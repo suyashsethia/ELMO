@@ -1,0 +1,81 @@
+{
+    "os": "Linux-6.2.0-32-generic-x86_64-with-glibc2.35",
+    "python": "3.10.12",
+    "heartbeatAt": "2023-09-14T11:27:47.295699",
+    "startedAt": "2023-09-14T11:27:46.253661",
+    "docker": null,
+    "cuda": null,
+    "args": [],
+    "state": "running",
+    "program": "<python with no main file>",
+    "codePathLocal": null,
+    "host": "suyash-stg",
+    "username": "suyash",
+    "executable": "/bin/python3",
+    "cpu_count": 4,
+    "cpu_count_logical": 8,
+    "cpu_freq": {
+        "current": 3791.4045,
+        "min": 400.0,
+        "max": 4200.0
+    },
+    "cpu_freq_per_core": [
+        {
+            "current": 3711.773,
+            "min": 400.0,
+            "max": 4200.0
+        },
+        {
+            "current": 3780.505,
+            "min": 400.0,
+            "max": 4200.0
+        },
+        {
+            "current": 3800.0,
+            "min": 400.0,
+            "max": 4200.0
+        },
+        {
+            "current": 3755.047,
+            "min": 400.0,
+            "max": 4200.0
+        },
+        {
+            "current": 3702.431,
+            "min": 400.0,
+            "max": 4200.0
+        },
+        {
+            "current": 3786.02,
+            "min": 400.0,
+            "max": 4200.0
+        },
+        {
+            "current": 3799.986,
+            "min": 400.0,
+            "max": 4200.0
+        },
+        {
+            "current": 3752.007,
+            "min": 400.0,
+            "max": 4200.0
+        }
+    ],
+    "disk": {
+        "/": {
+            "total": 233.17998886108398,
+            "used": 134.7328987121582
+        }
+    },
+    "gpu": "NVIDIA GeForce MX330",
+    "gpu_count": 1,
+    "gpu_devices": [
+        {
+            "name": "NVIDIA GeForce MX330",
+            "memory_total": 2147483648
+        }
+    ],
+    "memory": {
+        "total": 7.437446594238281
+    }
+}
